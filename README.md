@@ -1,5 +1,5 @@
 # Lecture-Notes-
-Hello everyone, I want to share some useful links that I gathered from the course Udacity- Google Challange For Android Development. 
+Hello everyone, I want to share some useful links that I gathered from the course Udacity- Google Challenge For Android Development. 
 
 
 Android Stuido Requirements:
